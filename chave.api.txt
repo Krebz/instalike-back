@@ -1,0 +1,6 @@
+AIzaSyA41gHfSfEKRAPclHrSaVOoQZKzesf02Wo
+
+krasuz
+LDXTmJXICRibXgqi
+
+mongodb+srv://krasuz:LDXTmJXICRibXgqi@cluster0.isjme.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
